@@ -18,6 +18,8 @@ namespace MicroLiteMonsterGenerator
 
         static void Main(string[] args)
         {
+            Console.Title = "Microlite20 Monster Creator";
+
             //Populate the dictionary with data
             np = PopulateDictinary();
 
